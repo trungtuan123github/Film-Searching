@@ -5,7 +5,7 @@
 
 To keep our credentials secure, we use a `.env` file to store the MongoDB connection URI.
 ```env
-MONGO_URI=[mongodb+srv://trandoanvuongtu:HB1j39319UxU2iHY@cluster0.2cudz7h.mongodb.net/?retryWrites=true&w=majority]
+MONGO_URI=['YOUR URI']
 ```
 
 Then use the below script to retrieve data.
